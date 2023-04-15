@@ -1,0 +1,27 @@
+{
+  "resources/css/style.css": {
+    "file": "assets/style-acf25676.css",
+    "isEntry": true,
+    "src": "resources/css/style.css"
+  },
+  "resources/js/chart-area-demo.js": {
+    "file": "assets/chart-area-demo-72031343.js",
+    "isEntry": true,
+    "src": "resources/js/chart-area-demo.js"
+  },
+  "resources/js/chart-bar-demo.js": {
+    "file": "assets/chart-bar-demo-21d1b165.js",
+    "isEntry": true,
+    "src": "resources/js/chart-bar-demo.js"
+  },
+  "resources/js/datatables-simple-demo.js": {
+    "file": "assets/datatables-simple-demo-ce5d919c.js",
+    "isEntry": true,
+    "src": "resources/js/datatables-simple-demo.js"
+  },
+  "resources/js/scripts.js": {
+    "file": "assets/scripts-a79bf339.js",
+    "isEntry": true,
+    "src": "resources/js/scripts.js"
+  }
+}
